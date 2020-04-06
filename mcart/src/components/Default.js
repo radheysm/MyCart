@@ -5,7 +5,7 @@ export default class Default extends Component {
         return (
             <div>
                 <h3>
-                    Hello from default 
+                    Page Not Found
                 </h3>
             </div>
         )
